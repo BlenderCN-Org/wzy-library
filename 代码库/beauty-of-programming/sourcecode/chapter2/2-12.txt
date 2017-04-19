@@ -1,0 +1,1 @@
+while(Vmax – Vmin > delta){	Vmid = Vmin + (Vmax - Vmin) * 0.5;	if(f(arr, N, Vmid) >= K)		Vmin = Vmid;	else		Vmax = Vmid;	}

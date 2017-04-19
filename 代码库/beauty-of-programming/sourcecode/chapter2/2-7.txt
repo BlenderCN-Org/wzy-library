@@ -1,0 +1,1 @@
+int lowestOne(int N){	int Ret = 0;	while(N)	{		N >>= 1;		Ret += N;	}	return Ret;}

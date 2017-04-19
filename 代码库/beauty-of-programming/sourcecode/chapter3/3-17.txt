@@ -1,0 +1,1 @@
+int bisearch(char** arr, int b, int e, char* v){	int minIndex = b, maxIndex = e, midIndex;	while(minIndex < maxIndex)	{		midIndex = (minIndex + maxIndex) / 2;		if(strcmp(arr[midIndex], v) <= 0)		{			minIndex = midIndex;		}		else		{			maxIndex = midIndex – 1;		}	}	if(!strcmp(arr[maxIndex], v))	{		return maxIndex;	}	else	{		return -1;	}}

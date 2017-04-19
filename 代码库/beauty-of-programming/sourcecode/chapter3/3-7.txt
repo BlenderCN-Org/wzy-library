@@ -1,0 +1,1 @@
+void DeleteRandomNode(node* pCurrent){	Assert(pCurrent != NULL);	node* pNext = pCurrent -> next;	if(pNext != NULL)	{		pCurrent -> next = pNext -> next;		pCurrent -> data = pNext -> data;		delete pNext;	}}

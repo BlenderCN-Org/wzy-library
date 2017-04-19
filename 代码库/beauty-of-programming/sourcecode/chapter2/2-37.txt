@@ -1,0 +1,1 @@
+定义：isOK[i][v]表示是否可以找到i个数,使得它们之和等于v初始化 isOK[0][0] = true;	isOK[i][v] = false(i > 0, v > 0)for(k = 1; k <= 2 * n; k++){	for(i = 1; (i <= k && i <= n); i++)		for(v = 1; v <= Sum / 2; v++)			if(v >= arr[k] && isOK[i - 1][v – arr[k]])				isOK[i][v] = true;}

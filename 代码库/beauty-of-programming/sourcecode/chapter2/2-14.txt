@@ -1,0 +1,1 @@
+for(sumCount = 0, v = MAXN – 1; v >= 0; v--){	sumCount += count[v];	if(sumCount >= K)		break;}return v;

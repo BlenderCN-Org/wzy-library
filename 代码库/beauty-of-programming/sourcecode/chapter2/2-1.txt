@@ -1,0 +1,1 @@
+int Count(int v){int num = 0;while(v)	{		if(v % 2 == 1)	{		num++;	}		v = v/ 2;	}return num;}

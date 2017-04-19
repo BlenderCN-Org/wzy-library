@@ -1,0 +1,1 @@
+int nMaxColors = 0, i, k, j;for(i = 0; i < N; i++){	for(k = 0; k < nMaxColors; k++)		isForbidden[k] = false;	for(j = 0; j < i; j++)		if(Overlap(b[j], e[j], b[i], e[i]))			isForbidden[color[j]] = true;	for(k = 0; k < nMaxColors; k++)		if(!isForbidden[k])			Break;	if(k<nMaxColors)		color[i] = k;	else		color[i] = nMaxColors++;}return nMaxColors；

@@ -1,0 +1,1 @@
+// 层次遍历二叉树// @param// root，二叉树的根节点// depth，树的深度void PrintNodeByLevel(Node* root, int depth){	for(int level = 0; level < depth; level++)	{		PrintNodeAtLevel(root, level);		cout << endl;	}}

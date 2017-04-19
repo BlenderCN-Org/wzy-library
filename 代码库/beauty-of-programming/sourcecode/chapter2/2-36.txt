@@ -1,0 +1,1 @@
+定义：Heap[i]表示存储从arr中取i个数所能产生的和之集合的堆。初始化：Heap[0]只有一个元素0。Heap[i]，i〉0没有元素。for(k = 1; k <= 2 * n; k++){	i_max = min(k - 1, n - 1);	for(i = i_max; i >= 0; i--)	{		for each v in Heap[i]			insert(v + arr[k], Heap[i + 1]);	}}

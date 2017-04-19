@@ -1,0 +1,1 @@
+BigInt gcd(BigInt x, BigInt y){	if(x < y)		return gcd(y, x);	if(y == 0)		return x;	else		return gcd(x - y, y);}

@@ -1,0 +1,1 @@
+ULONGLONG Count1InAInteger(ULONGLONG n){	ULONGLONG iNum = 0;	while(n != 0)	{		iNum += (n % 10 == 1) ? 1 : 0;		n /= 10;	}	return iNum;	}ULONGLONG f(ULONGLONG n){	ULONGLONG iCount = 0;	for (ULONGLONG i = 1; i <= n; i++)	{		iCount += Count1InAInteger(i);	}	return iCount;}

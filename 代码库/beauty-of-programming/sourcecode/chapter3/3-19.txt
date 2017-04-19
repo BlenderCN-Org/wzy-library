@@ -1,0 +1,1 @@
+LinkedList* IsCyclicLinkedList(LinkedList* pHead){	LinkedList* pCur;	LinkedList* pStart;	while (pCur != NULL)	{		for(; ; )		{			if (pStart == pCur -> pNext)				return pStart;			pStart = pStart -> pNext;		}		pCur = pCur -> pNext;	}	return pStart;  }

@@ -1,0 +1,1 @@
+void RecursiveSearch(int* number, int* answer, int index, int n){	if(index == n)	{		for(int i = 0; i < m; i++) 			printf("%c", c[number[i]][answer[i]]);		printf("\n");		return;	}	for(answer[index] = 0; 		answer[index] < total[number[index]]; 		answer[index]++)	{		RecursiveSearch(number, answer, index + 1, n);	}}

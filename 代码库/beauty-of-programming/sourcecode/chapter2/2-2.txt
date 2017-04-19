@@ -1,0 +1,1 @@
+int Count(int v){	int num = 0;	While(v)	{		num += v &0x01;		v >>= 1;	}	return num;}

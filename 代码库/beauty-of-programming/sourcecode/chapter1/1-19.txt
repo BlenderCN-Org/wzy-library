@@ -1,0 +1,1 @@
+bool nim(int n, int m) {	double a, b;	a = (1 + sqrt(5.0)) / 2;	b = (3 + sqrt(5.0)) / 2;	if(n == m)				// 两堆石头数量相同	{		return true;	}	if(n > m)	{		swap(n, m);		// 我们假设所有的状态<x,y>中x<=y，如果n>m，则交换二者	}	if(m - n == (long)floor(n * a))		// floor为取下整数的操作符	{		return false;	}	else	{		return true;	}}
