@@ -1,0 +1,363 @@
+#UED马克列表
+
+###基础
+
+- 平面构成
+	- 点线面构成原理
+	- 形式美法则
+	- 基本形式法则和构成形式
+- 板式设计
+	- 构图方法
+	- 图文排版方法
+	- 版式设计类型/原理
+	- 版式设计视觉流程
+	- 招贴设计/海报设计
+	- 名片设计
+	- 网格/网页版式设计
+- 图形创意设计
+	- 图形创意基础/表现
+- 标志设计
+	- 标志设计方法
+	- 标志设计经验/观点
+	- 标志设计灵感/素材
+	- 标志设计实战案例
+	- 标志设计规范/规则
+- 字体设计
+	- 字形结构/性格
+	- 字体设计方法
+	- 字体下载/应用
+	- 字体字效设计
+- 其他
+	- 手绘
+	- 素描
+	- 色彩
+	- 摄影
+	- VI 设计
+
+##设计
+
+- APP 界面设计
+	- APP界面及相应控件
+		- [控件界面框架与内容空间总结](http://wenku.baidu.com/view/50683d2759fb770bf78a6529647d27284b73377b.html?from=search)
+		- [界面控件 UI 中的排版布局思路](http://www.chuanke.com/v4272850-170051-1309991.html)
+		- [APP 控件库](http://huaban.com/pins/359517942/)
+		- [APP 界面设计规范](http://www.zcool.com.cn/article/ZNDUyMDYw.html)
+		- [Android UI 控件的分类](http://wenku.baidu.com/view/9abe8cea240c844768eaee10.html?from=search)
+		- [简约风格 APP 界面设计](http://www.fevte.com/tutorial-28598-1.html)
+		- [APP 界面控件中英文名称汇总](http://www.zcool.com.cn/article/ZNDQwMDky.html?switchPage=on)
+		- [这些 APP 控件你应该都知晓](http://www.chinaz.com/manage/2016/1119/614772.shtml)
+		- [APP 界面 UI 设计配色三原则](http://www.fevte.com/tutorial-27364-1.html)
+	- APP icon 设计
+		- [一枚 APP 图标的设计文化](http://wenku.baidu.com/view/1a4a4a5cbf1e650e52ea551810a6f524ccbfcb35.html?from=search)
+		- [图标绘制入门](https://www.chuanke.com/v4272850-159679-662219.html)
+		- [扁平化 ICON 图标](http://huaban.com/pins/785701987/)
+		- [APP 图标设计规范介绍](http://www.fevte.com/tutorial-27953-1.html)
+		- [ICON 设计指南](http://www.zcool.com.cn/article/ZNDU1MTIw.html)
+		- [如何设计一套像素完美的 ICON](http://www.zcool.com.cn/article/ZNDUwOTUy.html)
+		- [ICON 对 APP 的重要性及设计要点（二）个人 ICON 设计](http://www.zcool.com.cn/article/ZNDMxNDA4.html)
+		- [圆环 ICON 教程 - 适合初级入门学习](http://www.zcool.com.cn/article/ZNDE3Mjcy.html)
+	- APP 尺寸规范
+		- [APP UI 设计规范](http://wenku.baidu.com/view/861be0c26bd97f192279e9e9.html?from=search)
+		- [iOS 和 Android 设计规范要点](http://wenku.baidu.com/view/0a1d3f8302020740be1e9bc4.html?from=search)
+		- [iPhone 界面尺寸](http://www.25xt.com/appsize)
+		- [iPhone6 界面设计尺寸规范大全（含原型设计规范）](http://www.25xt.com/appdesign/10302.html)
+		- [APP 设计规范——基础篇（iOS 版）](http://www.zcool.com.cn/article/ZNDU3MjY0.html)
+		- [UI 设计之 APP 切图/标注规范](http://www.zcool.com.cn/work/ZMTk0MDEwMDg=.html)
+		- [Android 尺寸标注设计大全和 Android 切图规范](http://wenku.baidu.com/view/98bbd383be1e650e53ea9978.html?from=searchvvvv)
+		- [APP 界面设计规范二（Android 版）](http://www.zcool.com.cn/article/ZNDUyOTg0.html)
+		- [尺寸规范](http://www.uigreat.com/page/guifan)
+	- APP 版式布局
+		- [手机 UI 培训基础学习教程——UI 必备 APP 界面设计自学](http://www.chuanke.com/v3093033-191156-1087930.html)
+		- [Android APP 界面布局](http://wenku.baidu.com/view/b58dc30702d276a201292e41.html?from=search)
+		- [7 种常见的 APP UI 界面设计布局风格欣赏](http://www.25xt.com/appdesign/5555.html)
+		- [APP 界面设计之页面布局的 22 条基本原则](http://www.chinaz.com/design/2015/1009/454723.shtml)
+		- [手机 APP 设计干货：常见的 APP 信息布局方式](http://www.25xt.com/appdesign/9051.html)
+		- [四种常见的 APP 分类界面布局设计案例学习](http://www.25xt.com/appdesign/13841.html)
+		- [UI 中的排版布局思路](http://www.chuanke.com/v4272850-170051-1309991.html)
+		- [常见 APP 布局方法](http://www.zcool.com.cn/work/ZMTg2MzUwODA=.html)
+	- APP 字体
+	- 手机 H5 设计
+		- [微信 H5 案例分享](http://wenku.baidu.com/view/b8a05d2d524de518974b7d4c.html?from=search)
+		- [视频 H5 制作过程中常见的四个坑及解决措施](http://www.zcool.com.cn/article/ZNDU2NDUy.html)
+		- [穿越故宫来看你——一支有魔性刷爆朋友圈的 H5 是如何产生的](http://www.zcool.com.cn/work/ZMTcxNjc2Mjg=.html)
+		- [H5 设计！两大门派七种玩法，今年高逼格的 H5 这样玩](http://www.chinaz.com/design/2015/0729/428203.shtml)
+		- [移动端 H5 页面的设计稿尺寸大小规范](http://www.chinaz.com/design/2015/1103/465670.shtml)
+		- [H5 实景手绘运营专题](http://www.chuanke.com/v4272850-156784-1310035.html)
+		- [FaceH5，12月刊——尽享 H5 创意饕餮](http://www.zcool.com.cn/article/ZNDYyNjAw.html)
+		- [H5 页面设计规范](http://wenku.baidu.com/view/c7ce048dde80d4d8d05a4f28.html?from=search)
+	- APP 规范文档
+		- [APP 设计规范文档](http://www.zcool.com.cn/article/ZMTc5MTY4.html)
+		- [男范 APP 规范文档](http://www.zcool.com.cn/work/ZMTgzNzY5MTI=.html)
+		- [保驾车险 APP 设计规范整理文档](http://www.zcool.com.cn/work/ZMTkyNzE4OTY=.html)
+		- [36K 无线视觉规范](http://huaban.com/pins/803505315/)
+		- [文档 - APP 规范](http://huaban.com/pins/418512380/)
+		- [用户界面设计规范 iOS 篇](http://huaban.com/pins/483049685/)
+		- [网贷之家无线视觉规范](http://huaban.com/pins/486353697/)
+		- [APP 视觉，切图及标注规范示例](http://www.zcool.com.cn/article/ZMzg4NTg4.html)
+	- APP 案例应用
+		- [招商信诺手机官网，移动端网站，APP 界面，UI 设计，手机案例](http://www.zcool.com.cn/work/ZMTI2MzcxNTY=.html)
+		- [2016 年的一些 APP 和 H5 案例](http://www.zcool.com.cn/work/ZMTkwOTM3Njg=.html)
+		- [KEEP APP 案例分析](http://wenku.baidu.com/view/ff380ecac0c708a1284ac850ad02de80d4d8062a.html?from=search)
+		- [网易新闻 APP 案例分析](http://wenku.baidu.com/view/7104dc5a866fb84ae45c8dbb.html?from=search)
+		- [60 个设计师必备 APP](http://www.zcool.com.cn/article/ZNDE1NjQ4.html)
+		- [租房 APP - 友屋 - 友谊的小屋，真情的传递](http://www.uigreat.com/group/8/thread/2647)
+		- [个人简历 2016-11-07 版](http://www.zcool.com.cn/work/ZMTkyMDU1NTI=.html)
+		- [UI 设计基础概念之优秀 APP 推荐欣赏](http://www.zcool.com.cn/article/ZNDEyOTYw.html)
+- 网页设计
+	- [网页设计规范](http://ue.baidu.com/get/front/page/knowledge/id/23)
+		- [网页设计原理和技巧](http://wenku.baidu.com/view/1ec32ed3d15abe23482f4d4a.html?from=search)
+		- [WEB 设计规范 2016.10.31](http://wenku.baidu.com/link?url=x_SuJgLhvo7CgFSRTwCA05zhBlw28ewxSOcug7ODDPF1vYAe5bPZUzeu1E2WH_1JACQJdaI92X-VmboVp5FU4Uq54IW3UZwWGUX5sv_fm1qp5AK19wjNi1kqzf0Ru4V2)
+		- [网页设计制作规范](http://wenku.baidu.com/view/7d244b010740be1e650e9a2d.html?from=search)
+		- [WEB 网站设计规范](http://wenku.baidu.com/link?url=8TZAgIc8hk7j_uxS6mJlgFqx_acSL9sPyJhi_P9pELn1iJxiJcm7o7RXU5OvJJK3y_URhHHxh0QoDoq-9gYFnhNQ7mqXIcxmDVRBVu5lQjm)
+		- [网页设计规范](http://wenku.baidu.com/link?url=NBL_9lmxbnZD4GrnthNZ8Ng6nC_PHm_q9XSsB8rTAnXbdBegpdzyT0gUZ13Q4oNAnW2gXYtDhpIccl6v23mHflyQTvzIU6qP3nVPsyWoktq)
+		- [网页设计中字体规范总结](http://www.zcool.com.cn/article/ZNDM0MzE2.html)
+		- [网站移动端网页设计规范](http://www.zcool.com.cn/article/ZMjE0NDg4.html)
+		- [网页设计的标准尺寸](http://wenku.baidu.com/view/0038838bbed5b9f3f90f1ca8.html?from=search)
+	- 网页字体
+	- 网页色彩
+		- [如何制作一份图片色谱](http://ue.baidu.com/get/front/page/article/id/1128)
+		- [网页色彩设计](http://wenku.baidu.com/view/bba30094dd88d0d233d46a4d.html?from=search)
+		- [网页设计中的色彩](http://wenku.baidu.com/view/c62b2488ce2f0066f533227c.html?from=search)
+		- [网页设计中色彩运用的研究](http://wenku.baidu.com/view/e3303f27aaea998fcc220ef4.html?from=search)
+		- [设计心理学是如何体现在网页交互设计中](http://www.25xt.com/allcode/3578.html)
+		- [40 个色彩搭配优秀的网站配色](http://www.wzsky.net/html/59/118375.html)
+		- [色彩心理学对网页设计的影响](http://www.zcool.com.cn/article/ZMTY0NDI0.html)
+		- [色彩是网页的生命力](http://www.zcool.com.cn/article/ZODc5NzI=.html)
+		- [色彩心理学](http://huaban.com/pins/14975677/)
+	- 网页栅格化
+		- [网页栅格设计系统](http://wenku.baidu.com/view/e4c1c160a98271fe910ef9d1.html?from=search)
+		- [栅格系统与版式设计 电子版](http://wenku.baidu.com/view/19ebd1e36294dd88d0d26b45.html?from=search)
+		- [栅格系统的设计原理及应用](http://wenku.baidu.com/view/d738ea6a011ca300a6c39008.html?from=search)
+		- [视频网站栅格化设计](http://www.zcool.com.cn/article/ZNDU2OTIw.html)
+		- [汇总页面的栅格，排版，元素放置效果的使用方法](http://www.zcool.com.cn/article/ZMjE0Njcy.html)
+		- [传统网页布局栅格化设计分析](http://huaban.com/pins/738103555)
+		- [版式设计，栅格化](http://huaban.com/pins/454993790/)
+		- [网页设计中栅格的妙用](http://huaban.com/pins/838344784/)
+	- 网页 CSS
+		- [网页 CSS 样式导入技术在网页中的应用方法](http://wenku.baidu.com/view/01ad52bf482fb4daa48d4b91.html?from=search)
+		- [CSS 入门教程](http://wenku.baidu.com/view/7c82b915f18583d0496459bc.html?from=search)
+		- [HTML 和 CSS 代码规范](http://wenku.baidu.com/view/35fd6128b5daa58da0116c175f0e7cd1842518b4.html?from=search)
+		- [最新前端速查表集合（CSS3 Flexbox/CSS 动画/Bootstrap4）](http://www.shejidaren.com/front-end-cheat-sheets.html)
+		- [决不能错过的网页设计巅峰之作，2016 年度 CSS 设计奖出炉](http://www.zcool.com.cn/article/ZNDUyMzIw.html)
+		- [两行 CSS 实现 iOS 10 新 Drop Shadow 样式](http://www.zcool.com.cn/article/ZNDM0ODA0.html)
+		- [CSS 教程](http://www.zcool.com.cn/article/ZNDEwOTA4.html)
+		- [手把手教你建立个人网站 - DIV 和 CSS 那些不可告人的事儿](http://www.zcool.com.cn/article/ZNDA3Nzgw.html)
+	- 电商设计
+		- [电子商务网站首页设计](http://wenku.baidu.com/view/b095ecf049649b6648d74735.html?from=search)
+		- [网页设计，网店设计，视频制作，网页开发全面教程](https://www.chuanke.com/v2538206-170024-815686.html)
+		- [电子商务网站设计七要素](http://www.uisdc.com/7-black-friday-rules)
+		- [50 个超赞的简约时尚的电商网站设计](http://sc.chinaz.com/info/130825584011.htm)
+		- [浅谈电商网站设计的突破点](http://www.zcool.com.cn/article/ZNDAwODAw.html)
+		- [电子商务网站设计分析 - 首页导航](http://www.zcool.com.cn/article/ZMTEwNzcy.html)
+		- [电子商务网站设计分析 - 首屏设计](http://www.zcool.com.cn/article/ZMTE0MTAw.html)
+		- [电商网站](http://huaban.com/pins/633295605/)
+	- 网页案例应用
+		- [Coffee 网页设计欣赏](http://www.ziticq.com/zpweb/20150213/2071.html)
+		- [一个干果的网站 - by Nikola](http://www.ziticq.com/zpweb/20150214/2078.html)
+		- [ThoughtSpot 网页设计](http://www.ziticq.com/zpweb/20150213/2069.html)
+		- [响应式网页设计：22 个经典案例不容错过](http://www.zcool.com.cn/article/ZMTMwNDQ=.html)
+		- [2014 年全球网站设计的 15 个趋势](http://huaban.com/pins/190024064/)
+		- [大色块企业网站设计欣赏](http://huaban.com/pins/63603470/)
+- ICON 设计
+	- 线性/面性 ICON
+	- 写实 ICON
+	- 扁平 ICON
+	- ICON 尺寸
+		- [APP 图标尺寸](http://wenku.baidu.com/view/cac8045aa76e58fafab00371.html?from=search)
+		- [iOS 8 官方推荐图标和图像尺寸](http://wenku.baidu.com/view/70ce9d9cb7360b4c2e3f64bb.html?from=search)
+		- [安卓 尺寸规范](http://wenku.baidu.com/view/5afa40d5fc4ffe473268ab59.html?from=search)
+		- [ICON 制作规范，ICON 设计，图标设计，规范制作，ICON 标准，ICON 尺寸](http://www.zcool.com.cn/work/ZMTMzNTA1NzY=.html)
+		- [尺寸规范（界面，ICON，分辨率）](http://www.zcool.com.cn/work/ZMTc4MTU5ODQ=.html)
+		- [一键生成 APP Store 各尺寸 ICON](http://www.zcool.com.cn/work/ZMTcyMjMwNTI=.html)
+		- [iPhone，iPad，Android UI 常用设计尺寸](http://huaban.com/pins/54327670/)
+		- [iOS 图标，图形尺寸规范](http://wenku.baidu.com/view/f45dc2f2fbb069dc5022aaea998fcc22bcd1436a.html?from=search)
+- 其他
+	- 广告 BANNER 设计
+		- [巧克力 banner 设计教程分享](http://www.zcool.com.cn/article/ZMzc3MTU2.html)
+		- [PS 制作动态 banner -（视频教程）提供练习小 PSD 和视频素材](http://www.zcool.com.cn/article/ZMTcwODYw.html)
+		- [高手教你做 banner！如何把 banner 做得传情达意](http://www.uisdc.com/banner-make-sence)
+		- [教你简单快速的设计 banner](http://www.uisdc.com/design-beautiful-banner-of-the-atmosphere)
+		- [banner 设计教程——电子商务真实案例分享](http://www.zcool.com.cn/article/ZMTQyNzk2.html)
+		- [电商 banner 海报合成教程分享](http://www.zcool.com.cn/article/ZNDE4NTgw.html)
+		- [常用版式设计的构成与应用（二）](http://uilover.com/thread-519-1-19.html)
+		- [常用版式设计的构成与应用](http://uilover.com/thread-518-1-19.html)
+		- [版式设计中的主要元素提取](http://uilover.com/thread-747-1-1.html)
+		- [版式设计之一 - 主体刻画](http://uilover.com/thread-275-1-36.html)
+	- 运营专题设计
+		- [巧用 9 大服装穿搭技巧，助你轻松搞定专题页设计！](http://www.uisdc.com/9-special-subject-design-skills)
+		- [决战双 11！哪些技巧可以让你的专题页设计脱颖而出](http://www.uisdc.com/special-subject-page-design-skills)
+		- [2015 发布会回顾 - 运营篇](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201506/355599.shtml)
+		- [大势所趋！移动版专题设计的那些事](http://www.uisdc.com/mobile-project-webpage-design)
+		- [快速制作专题！利用颜色查找快速制造大感觉](http://www.uisdc.com/color-lookup-project-page)
+		- [【VC 教程】动漫风格专题 - 标题设计](http://www.zcool.com.cn/article/ZMTA5NTA4.html)
+		- [网易专题页分享！2014 巴西世界杯主视觉创作随笔](http://www.uisdc.com/fifa-worldcup-visual-design)
+		- [想做好专题页！先学专题页设计中的构图](http://www.uisdc.com/special-page-design)
+	- 动效设计
+		- [动效|七何分析法帮你全面分析界面动效](http://www.uisdc.com/5w2h-animation-analysis-methods)
+		- [动效设计原理：从卡通动画到 UI 动效](https://isux.tencent.com/20122.html)
+		- [H5 动效的常见制作手法](https://isux.tencent.com/h5active.html)
+		- [动效转换深度剖析：未来在于 Z 轴](http://www.ui.cn/detail/12492.html)
+		- [改善你的 UX 设计！值得参考的四个动效使用方法](http://www.uisdc.com/4-useful-animation-design-method)
+		- [高手之路！设计漂亮有趣的转场动效](http://www.uisdc.com/interesting-design-motion-graphic)
+	- 游戏 UI 设计
+		- [游戏 UI 美术基础理论](https://www.chuanke.com/4272850-157749.html)
+		- [恐怖氛围特效教程 PS 合成](https://www.chuanke.com/v4272850-206788-1259094.html)
+		- [设计师必备技能 - 手绘鼠绘](https://www.chuanke.com/4272850-163336.html)
+		- [鼠绘暴雪游戏源氏徽章 PS 手绘](https://www.chuanke.com/4272850-191586.html)
+		- [金属质感技法表现](https://www.chuanke.com/4272850-157749.html)
+		- [玻璃和水材质表现](https://www.chuanke.com/4272850-157749.html)
+		- [动效设计从小白到高手](https://www.chuanke.com/v4272850-159054-1318393.html)
+		- [游戏 UI 从小白到高手](https://www.chuanke.com/4272850-157749.html)
+		- [动效设计实战案例解析 AE Flash PS](https://www.chuanke.com/4272850-157276.html)
+		- [游戏 UI 优秀设计作品赏析](http://ue.baidu.com/get/front/page/article/id/1127)
+		- [如何打造 MOBA 类 “重口味” 氛围](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201412/293407.shtml)
+		- [Fight 革斗新生——DNF321 品牌站总结](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201408/275911.shtml)
+		- [《召唤兽的宝藏》——火影 OL 品牌互动站总结](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201410/285792.shtml)
+		- [《疾风之刃》视觉概念站执行分享](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201207/75032.shtml)
+		- [《上古世纪》新官网视觉表现的思考](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201307/215722.shtml)
+		- [FPS 游戏也能轻薄化——《战争雷霆》新官网改版](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201409/280082.shtml)
+		- [黑金史诗——《刀锋铁骑》新品首发总结](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201407/268820.shtml)
+		- [天涯明月刀 - 电影武侠新艺术](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201310/229087.shtml)
+
+##研究
+
+- 用户研究
+	- 用户画像
+		- [设计知识——用户画像](http://wenku.baidu.com/view/33b2b7f6227916888586d75e)
+		- [如何给用户画像](http://www.chuanke.com/v4272850-163220-1310083.html)
+		- [什么是用户画像？一般用户画像的作用是什么](https://www.zhihu.com/question/19853605)
+		- [Persona——Web 人物角色介绍](http://uedc.163.com/1076.html)
+		- [用户体验中用户画像如何做](http://www.jianshu.com/p/4a3d6ec48b5f)
+		- [剥出来的用户角色](https://isux.tencent.com/stripping-out-the-user-role.html)
+		- [创建性用户画像](http://cdc.tencent.com/2011/12/19/%E5%88%9B%E5%BB%BA%E5%AE%9A%E6%80%A7%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F/)
+		- [如何构建用户画像](http://www.woshipm.com/pmd/107919.html)
+		- [基于用户尺度评价的人物角色分类方法与实践](http://www.aliued.cn/2013/12/26/%E5%9F%BA%E4%BA%8E%E7%94%A8%E6%88%B7%E5%B0%BA%E5%BA%A6%E8%AF%84%E4%BB%B7%E7%9A%84%E4%BA%BA%E7%89%A9%E8%A7%92%E8%89%B2%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5.html)
+	- 调研问卷
+		- [设计知识 - 调研问卷](http://wenku.baidu.com/view/93cf33bbc850ad02df80415a)
+		- [用户研究方法基础 - 问卷](https://www.chuanke.com/v4272850-163220-1310081.html)
+		- [问卷设计之纠结的选项](http://www.uebloc.com/html/439785.html)
+		- [需求捕获：深度剖析调查问卷](http://www.woshipm.com/pmd/374323.html)
+		- [调查问卷设计](http://wenku.baidu.com/link?url=JIKkV-Kh3YOVc8iI-MPtSpvjmzLeHPJRLLrjOXageQuJdwkYXR-X8MBQX6MfoAuPnLcUgsZWRpN9-5iWwju3CB-sqtzGCiOxsCcFi6AAvge)
+		- [阿里干货！如何打造一份高质量的问卷调查](http://www.uisdc.com/free-standard-questionnaire-design)
+		- [如何设计出一份好的调查问卷](http://www.woshipm.com/pd/117422.html)
+	- 用户访谈
+		- [设计知识 - 用户访谈](http://wenku.baidu.com/view/00e3bbe06c175f0e7dd1375a)
+		- [用户研究方法基础 - 访谈](https://www.chuanke.com/v4272850-163220-1310080.html)
+		- [别问用户要什么！用户访谈的三个基本问题](http://www.uisdc.com/user-interviews-basic-issues)
+		- [用户访谈 - 几个细枝末节的问题](http://www.aliued.com/?p=1285)
+		- [用研|从 “一问一答” 到 “听讲故事” 的用户访谈技巧](http://www.uisdc.com/qa-story-user-interview)
+		- [有一种用户访谈句式叫 “请你回忆一下当时...”](http://www.zcool.com.cn/article/ZMTM5OTU2.html)
+		- [阿里实战案例！从一次小型用户访谈中学到的四个亲身经验](http://www.uisdc.com/compact-user-interview-experience)
+	- 焦点小组
+		- [焦点小组](http://wenku.baidu.com/view/512b8a380912a21614792953.html?from=search)
+		- [焦点小组及其其他用户研究方法的区别](http://wenku.baidu.com/view/69725b3a240c844768eaee04.html?from=search)
+		- [焦点小组中的 “场”](http://www.woshipm.com/pmd/190382.html)
+		- [6 招足矣，需求调研之焦点小组的专业做法](http://www.woshipm.com/pmd/363041.html)
+		- [说说焦点小组那些事](https://isux.tencent.com/something-about-focus-group.html)
+		- [焦点小组访谈法](http://wenku.baidu.com/link?url=pfhShGS7OkvwRKhn_v8wkzg3b_6UMQ42iDcm7TTF9nG-FZCjujYnK0AbbhVJ7qL1IxOtIzSKIg3ziECQkGjoHTOjWgQN28OXF1pmJdzxY3C)
+	- 眼动实验
+		- [眼动研究](https://www.zhihu.com/topic/19580388/newest)
+		- [用户研究中眼动测试方法介绍之一（启蒙篇）- 张婧](http://wenku.baidu.com/view/e626a208f01dc281e43af05c.html?re=view)
+		- [眼动的力量 - 眼动研究方法小结](http://mux.alimama.com/posts/452?spm=0.0.0.0.f74ayH)
+		- [高手之路：解读眼动的 12 个误区](http://www.uisdc.com/eye-ergonomics-error)
+		- [搞不懂眼动仪？看完这篇文章你就全明白啦！](http://www.uisdc.com/eye-tracker-introduction)
+	- A/B 测试
+		- [什么是 A/B 测试](https://www.zhihu.com/question/20045543/answer/59025552)
+		- [A/B 测试：基本概念](http://www.aliued.cn/2010/09/13/ab-testing-basic-concept.html)
+		- [A/B 测试有什么局限性](https://www.zhihu.com/question/19631253)
+		- [A/B 测试：实现方法](http://www.aliued.cn/2010/09/27/ab-testing-realization-method.html)
+		- [用研|超全面的移动电商 A/B 测试入门指南](http://www.uisdc.com/mobile-e-commerce-ab-test-guideline)
+		- [AB 测试终极指南](http://wenku.baidu.com/link?url=zFdpuS2Cj0n50t4eZiMFLooztLiwLaVfDH1ErXSNkavAMkZUBuI2alG3v1Zn7wkLE12EAbdBUIFXOTah7jIXOiCH_dZaDYCoKiTUZ_JND1a)
+		- [关于 A/B Test 的外传](http://www.aliued.com/?p=1503)
+		- [那些 A/B 测试教我们的 APP Store 优化](http://mux.alimama.com/posts/1450?spm=0.0.0.0.PhTdtM)
+	- 卡片分类
+		- [用户研究 - 卡片分类方法介绍](http://www.yixieshi.com/25123.html)
+		- [关于卡片分类](http://www.zcool.com.cn/article/ZNDM4NDky.html)
+		- [来玩玩像 UNO 一样有趣的分类设计法吧](http://www.uisdc.com/card-sorting)
+		- [百度用户体验部 - 用户研究 - 方法分享 - 卡片分类](http://wenku.baidu.com/link?url=VMKpwee4HcmlxonmUG5nRxl1h-uwesV7kjZFdCr_dYfLFCiaE5Zwq7xVpWWF5y02cGfY-0SCRmoHCQCchYZiFdMqadcKwRbAm74GbJCMONG)
+	- 可用性测试
+		- [用户研究——可用性测试](http://wenku.baidu.com/link?url=ZmV5ZBbD_fv05SGOjgW_wpoU6lg7rOdBBBdF2S5ay9WSZDFjy23DWRymPCPN1i2iSKsFDovx6wNqa6DCrjUqeoyzlZqWOxmUBAbB4UcwT9C)
+		- [USER 研究方法基础——可用性测试](http://www.chuanke.com/v4272850-163220-1310087.html)
+		- [实用性测试目标：先问 “原因” 后探路](http://uec.nq.com/works/183)
+		- [移动可用性测试？分享一个你绝对不知道的新招（附教程）](http://www.uisdc.com/painless-mobile-user-testing)
+		- [可用性测试的权衡之道](http://uedc.163.com/7339.html)
+		- [移动可用性测试](https://isux.tencent.com/mobile-usability-testing-one.html)
+		- [UX 优化实战！我是怎样做 SPOTIFY 网页版可用性测试的](http://www.uisdc.com/spotify-webapp-usability-test)
+- 交互设计
+	- 交互设计方法
+		- [交互设计思维及技法](http://www.chuanke.com/v4272850-163140-714488.html?library=1&bname=&statistics_channel_id=2160&statistics_uid=44)
+		- [IDEO Method Cards 设计方法中文版](http://wenku.baidu.com/view/d078b0e46137ee06eff9189c.html?from=search)
+		- [UCD 介绍](http://wenku.baidu.com/view/88f124df7f1922791688e8f4.html?from=search)
+		- [交互设计方法论 2.0 探讨](http://cdc.tencent.com/2009/04/17/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E8%AE%BA-20%E6%8E%A2%E8%AE%A8/)
+		- [UCD 之外](http://mux.alimama.com/posts/834?spm=0.0.0.0.AefyaQ)
+		- [从 “以用户为中心的设计” 到 “用户参与式设计”：participatory design](http://wenku.baidu.com/view/c23e1c0e53d380eb6294dd88d0d233d4b14e3f21.html?from=search)
+		- [基于场景的设计方法](http://www.aliued.cn/2016/08/24/%E5%9F%BA%E4%BA%8E%E5%9C%BA%E6%99%AF%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95-2.html)
+		- [体验方法论以目标为导向的设计](http://www.zcool.com.cn/article/ZNDI4NjE2.html)
+	- 竞品分析
+		- [竞品分析](http://uedc.163.com/7500.html)
+		- [如何做竞品分析](http://wenku.baidu.com/view/c852a863783e0912a2162a87.html?from=search)
+		- [如何做好竞品分析](http://wenku.baidu.com/view/9dcbc432b84ae45c3a358c3c.html?from=search)
+		- [KeepVS 火辣健身竞品分析报告](http://www.chanpin100.com/article/101839)
+		- [产品论坛竞品分析报告](http://eux.baidu.com/blog/2015/12/competitor-analysis-from-ui-designer)
+	- 需求分析
+		- [用户需求分析](http://wenku.baidu.com/view/6ba04206ba0d4a7303763a45)
+		- [用户需求分析方法](http://wenku.baidu.com/link?url=m4dpmzl8S74we5eoLz8Eu4gcuaYHZretkRZ2Us3r7rzQNCz3DPGC6n6tBLQyqLGsuj2bJuN2gYSyEARSaqOaRPIn2YgQr_t3IY0IA3R-j4S)
+		- [交互设计师眼中的需求分析](http://www.woshipm.com/ucd/478152.html)
+		- [设计师做需求分析，如何避免这 4 个误区？](http://www.uisdc.com/demand-analysis-4-mistakes)
+		- [不甘心被产品带着走？先学会将商业需求转化为设计需求](http://www.uisdc.com/business-requirements-design-demands)
+		- [案例详解：设计方案前如何做好需求分析](http://www.woshipm.com/pd/491516.html)
+	- 原型设计
+		- [所谓原型，是个什么东东？](http://wenku.baidu.com/view/aad2ef964afe04a1b171de1d.html?from=search)
+		- [同为 “原型” 的 wireframe, prototype, mockup, 到底有什么不同？](http://uxren.cn/?p=44447)
+		- [15 款优秀移动 APP 产品原型设计工具](http://www.woshipm.com/rp/64741.html)
+		- [产品原型设计之交互体验的思考过程](http://wenku.baidu.com/view/46ea4603bfd5b9f3f90f76c66137ee06eff94ea2.html?from=search)
+		- [原型设计的重要性你真的明白么？](http://www.uisdc.com/importance-of-prototyping)
+		- [如何培养正确的原型设计思维](http://www.uisdc.com/the-prototype-mindset)
+		- [原型设计思维](http://www.aliued.cn/2016/03/23/%E3%80%90%E8%AF%91%E6%96%87%E3%80%91%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4.html)
+	- 设计评估
+		- [靠谱的交互设计评估方法](http://wenku.baidu.com/view/93174e6324c52cc58bd63186bceb19e8b8f6ec24.html?from=search)
+		- [手机体验交互设计评估方法](http://wenku.baidu.com/view/6fe3f10b876fb84ae45c3b3567ec102de2bddfe3.html?from=search)
+		- [还在用 “颜值” 评估设计？教你个不那么 low 的方法](http://www.uisdc.com/design-quality-measurement-method)
+		- [如何让设计可量化](http://www.uisdc.com/make-design-quantify)
+		- [有哪些靠谱的交互设计评估方法](http://www.woshipm.com/ucd/135372.html)
+		- [启发式评估：像真实用户一样去体验你的产品](http://www.woshipm.com/pd/347582.html)
+	- 数据分析
+		- [设计师必知的数据知识](http://wenku.baidu.com/view/0cd95d1af61fb7360a4c6508)
+		- [浅谈交互设计师要知道的 “数据分析” 两三事](http://www.woshipm.com/pd/261537.html)
+		- [做设计为什么还需要看数据](http://www.uisdc.com/data-oriented-design-thinking)
+		- [用研|数据测量与分析：入门完全指南](http://www.uisdc.com/data-measure-starter-guideline)
+		- [交互设计师如何看数据]()
+		- [交互设计师必修课：数据分析的原则](http://www.uisdc.com/data-analysis-principle)
+		- [如何通过数据指导产品优化](http://mux.alimama.com/posts/818?spm=0.0.0.0.6TnrFZ)
+		- [大数据时代，如何利用数据来提升设计？](http://www.zcool.com.cn/article/ZNDQxMzQ4.html)
+- 其他
+	- 设计法则与规范
+		- [尼尔森十大可用性原则](http://www.yixieshi.com/61457.html)
+		- [那些年我们看过的各种设计法则](http://www.uisdc.com/design-theory-law)
+		- [设计师必备的 20 条设计黄金法则](http://www.woshipm.com/ucd/180307.html)
+		- [费茨定律也有不适用的时候](http://tid.tenpay.com/?p=4137)
+		- [格式塔基本原则](http://cued.xunlei.com/log036)
+		- [你需要知道的 9 个移动端用户体验设计准则](http://www.zcool.com.cn/article/ZNDIyNTky.html)
+		- [20 个设计核心要素和原则](http://www.zcool.com.cn/article/ZNDIwMjI0.html)
+	- 服务设计
+		- [浅谈服务设计](http://uedc.163.com/12158.html)
+		- [用户体验地图完全绘制手册](http://www.uisdc.com/user-research-ux-map)
+		- [想知道更多国外的服务设计的案例？](https://www.zhihu.com/question/21723934/answer/20079085)
+	- 信息可视化
+		- [信息可视化普及](http://wenku.baidu.com/view/e4040978336c1eb91a375db7.html?from=search)
+		- [信息可视化设计](http://wenku.baidu.com/view/8e908e3def06eff9aef8941ea76e58fafab04530.html?from=search)
+		- [21 款酷炫的数据可视化工具](http://www.woshipm.com/xiazai/216656.html)
+		- [初探信息可视化的流程和方法](http://www.woshipm.com/pd/136131.html)
+		- [信息可视化图标设计](http://www.woshipm.com/ucd/154251.html)
+		- [做好数据可视化的五虎将](http://www.aliued.com/?p=2532)
+		- [信息可视化在新媒体时代的实践思考](https://isux.tencent.com/information-design-installation.html)
+	- 产品设计
+		- [9 个产品设计方法](http://www.leiphone.com/news/201605/sxAD4piB8uwrJakd.html)
+		- [用户体验设计流程](http://wenku.baidu.com/view/549d2f25b14e852459fb5745)
+		- [关于需求的 11 个真相](http://www.alibuybuy.com/posts/89065.html)
+		- [张小龙谈移动互联网产品设计原则](http://www.csdn.net/article/2012-07-25/2807730)
+		- [移动互联网产品设计的经验分享](http://www.woshipm.com/pd/35425.html)
+		- [产品设计如何脱颖而出](http://www.zcool.com.cn/article/ZNDI2NDYw.html)
+		- [复杂产品的设计策略](http://www.aliued.cn/2016/05/23/%E3%80%90%E8%AF%91%E6%96%87%E3%80%91%E5%A4%8D%E6%9D%82%E4%BA%A7%E5%93%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%AD%96%E7%95%A5.html)
+		- [Facebook 设计 VP 的产品设计观](http://www.aliued.cn/2016/06/29/%E3%80%90%E8%AF%91%E6%96%87%E3%80%91facebook%E8%AE%BE%E8%AE%A1vp%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E8%A7%82.html)
+		- [什么是真正的 “设计思维”](http://www.zcool.com.cn/article/ZNDM5NDUy.html)
