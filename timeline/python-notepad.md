@@ -1,7 +1,9 @@
-##Python
-###Terminal
+## Python
+
+### Terminal
+
 查看 python 版本
-	
+
 	python -V
 	python --version
 
@@ -26,15 +28,16 @@
 	os.getcwd()
 
 切换当前工作目录
-	
+
 	//切换当前工作目录
 	import os
 	os.chcwd("/home")
 	//加入包含 .py 文件的目录到系统文件里
 	import sys
 	sys.path.append(".../")
-	
-###CSV
+
+### CSV
+
 读取 CSV 文件
 
 	import csv

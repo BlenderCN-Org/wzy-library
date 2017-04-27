@@ -1,5 +1,5 @@
 # App and Tools
-##General
+## General
 * Adobe Flash
 * Adobe Illustrator
 * Adobe Photoshop
@@ -11,17 +11,16 @@
 * [Sublime](http://www.sublimetext.com/)
 * [_Website Marklist_](https://github.com/wuzhiyi/nuke-and-reinstall/blob/master/marklist.md)
 
-##Macintosh
+## Macintosh
 * Alfred
 * Dash
 * [Mou](http://25.io/mou/)
 * Unarchiver
 * WeChat
 
-##Windows
+## Windows
 * Lenovo驱动管理
 * PyCharm
 * Visual Studio
 * VMware
 * Ubuntu
-
